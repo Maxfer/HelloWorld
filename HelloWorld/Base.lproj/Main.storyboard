@@ -33,11 +33,9 @@
                             <constraint firstItem="b74-ff-zdF" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="9vG-nY-2vW"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="b74-ff-zdF" secondAttribute="bottom" constant="16" id="CFE-Jz-bAW"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="jPR-X7-yai" secondAttribute="trailing" constant="16" id="DVl-Mt-V4g"/>
-                            <constraint firstItem="b74-ff-zdF" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="X9D-fl-sjQ"/>
                             <constraint firstItem="jPR-X7-yai" firstAttribute="height" secondItem="b74-ff-zdF" secondAttribute="height" id="cDy-aX-A9M"/>
                             <constraint firstItem="jPR-X7-yai" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="dUE-Iv-X7o"/>
                             <constraint firstItem="b74-ff-zdF" firstAttribute="top" secondItem="jPR-X7-yai" secondAttribute="bottom" constant="20" id="erm-FK-6VK"/>
-                            <constraint firstItem="jPR-X7-yai" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="nUy-OD-EzP"/>
                         </constraints>
                     </view>
                 </viewController>
